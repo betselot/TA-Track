@@ -6,6 +6,13 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 ![My GIF](animated-cyclist1.gif)
 
 
+
+**Pedestrian Category of KITTI dataset**
+
+
+![My GIF](animated-ped.gif)
+
+
 **Van Category of KITTI dataset (149 frames)** 
 
 
