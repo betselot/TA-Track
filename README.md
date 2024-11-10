@@ -10,3 +10,10 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 
 
 ![My GIF](animation_van(149).gif)
+
+
+
+**Car Category of KITTI dataset (89 frames)** 
+
+
+![My GIF](animation_car(89).gif)
