@@ -13,14 +13,14 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 ![My GIF](animated-ped.gif)
 
 
-**Van Category of KITTI dataset (149 frames)** 
+**Van Category of KITTI dataset (149 frames (i.e., point cloud sequences))** 
 
 
 ![My GIF](animation_van(149).gif)
 
 
 
-**Car Category of KITTI dataset (89 frames)** 
+**Car Category of KITTI dataset (89 frames (i.e., point cloud sequences))** 
 
 
 ![My GIF](animation_car(89).gif)
