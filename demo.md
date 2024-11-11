@@ -29,14 +29,14 @@ The movie file contains point cloud sequences. In the movie file, the target mov
 **Large Movie file: Click on the GIF file to play the video**
 
 
-**Van Category of KITTI dataset (286 frames)** 
+**Van Category of KITTI dataset (286 frames (i.e., point cloud sequences))** 
 
 
 ![My GIF](animation_van(286).gif)
 
 
 
-**Car Category of KITTI dataset (316 frames)** 
+**Car Category of KITTI dataset (316 frames (i.e., point cloud sequences))** 
 
 
 ![My GIF](animation_car(316).gif)
